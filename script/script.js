@@ -97,8 +97,8 @@ function handleTabletChange(e) {
        menuBurger.classList.remove('menu-burger_none')
       let brokoli = document.getElementById("brokoli")
       let letuce = document.getElementById("letuce")
-      brokoli.src="/img/brokoli-small.png"
-      letuce.src="/img/letuce-small.png"
+      brokoli.src="img/brokoli-small.png"
+      letuce.src="img/letuce-small.png"
   }else if(mediaQuery <= 'max-width: 1201px'){
     menuBurger.classList.add('menu-burger_none')
   }
