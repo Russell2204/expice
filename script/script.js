@@ -62,20 +62,20 @@ window.addEventListener('click', e => {
 // ЗЕЛЕНАЯ ТЕМА --------------------------------------------
 greenThemeButt.addEventListener('click', function () {
        body.classList.add('green-theme');
-       document.getElementById("tcb").src="/img/See More_green.png"; 
-       document.getElementById("oscf").src="/img/osifirstgreen.png";
-       document.getElementById("oscs").src="/img/osthirdgreen.png";
-       document.getElementById("oscs").src="/img/osthirdgreen.png";
-       document.getElementById("osct").src="/img/ossecondthird.png";
+       document.getElementById("tcb").src="img/See More_green.png"; 
+       document.getElementById("oscf").src="img/osifirstgreen.png";
+       document.getElementById("oscs").src="img/osthirdgreen.png";
+       document.getElementById("oscs").src="img/osthirdgreen.png";
+       document.getElementById("osct").src="img/ossecondthird.png";
 })
 // ЗЕЛЕНАЯ ТЕМА --------------------------------------------\\\\\\
 // КРАСНАЯ ТЕМА ---------------------------------------------
 redThemeButt.addEventListener('click', function () {
        body.classList.remove('green-theme');
-       document.getElementById("tcb").src="/img/See More.png"; 
-       document.getElementById("oscf").src="/img/osifirst.png";
-       document.getElementById("oscs").src="/img/osthird.png";
-       document.getElementById("osct").src="/img/ossecond.png";
+       document.getElementById("tcb").src="img/See More.png"; 
+       document.getElementById("oscf").src="img/osifirst.png";
+       document.getElementById("oscs").src="img/osthird.png";
+       document.getElementById("osct").src="img/ossecond.png";
 })
 // КРАСНАЯ ТЕМА ---------------------------------------------\\\\\\
 
