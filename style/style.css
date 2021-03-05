@@ -49,15 +49,15 @@ a{
 .red-theme{
     --main-color:#FE043C;
     --main-color-70: rgb(254, 4, 60, 0.7);
-    --arrow-first: url('/img/arrow_red__1.png');
-    --arrow-second: url('/img/arrow_red__2.png');
+    --arrow-first: url('../img/arrow_red__1.png');
+    --arrow-second: url('../img/arrow_red__2.png');
 }
 
 .green-theme{
     --main-color: #35CD8C;
     --main-color-70:rgb(53, 205, 140, 0.7);
-    --arrow-first: url('/img/arrow_green__1.png');
-    --arrow-second: url('/img/arrow_green__2.png');
+    --arrow-first: url('../img/arrow_green__1.png');
+    --arrow-second: url('../img/arrow_green__2.png');
 }
 
 
