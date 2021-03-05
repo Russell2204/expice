@@ -1067,7 +1067,7 @@ body {
 
 /* =============================footer============================= */
 .footer {
-    background: url('/img/Footer.png');
+    background: url('../img/Footer.png');
     background-repeat: no-repeat;
     min-height: 946px;
     display: flex;
