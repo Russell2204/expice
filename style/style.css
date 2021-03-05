@@ -772,7 +772,7 @@ body {
 }
 
 .our_service-cards {
-    background: url('/img/osbg.png');
+    background: url('../img/osbg.png');
     padding-top: 0;
     padding-bottom: 99px;
     margin-bottom: 150px;
