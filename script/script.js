@@ -225,13 +225,3 @@ const slider = new SLIDER({
   autoplay: true,
   activeSlide : 0
 })
-
-// const secondSlider = new SLIDER({
-//   slider : '.main-carousel_container',
-//   sliderLine : '.main-carousel_list',
-//   leftBtn : '.main-carousel_controls',
-//   direction: 'X',
-//   time: 1000,
-//   autoplay: false,
-//   activeSlide : 0
-// })
