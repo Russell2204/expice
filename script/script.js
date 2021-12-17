@@ -221,7 +221,7 @@ const slider = new SLIDER({
   leftBtn : '#left',
   rightBtn : '#right',
   direction: 'X',
-  time: 1000,
+  time: 5000,
   autoplay: true,
   activeSlide : 0
 })
